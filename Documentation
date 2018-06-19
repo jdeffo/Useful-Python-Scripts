@@ -1,0 +1,14 @@
+7/20/17
+Starting this repository to hold various, small, useful scripts that do not
+need their own repo
+
+First script: UpdateServer
+    Update a server with a folder
+        Args: Server, password, folder
+
+7/25/17
+uServ completed
+    python uServ.py [Environment] [Password]
+Currently, just pushes my Web Folder to the corresponding droplet, but with
+future hosted projects those will be added in.
+    Skips over unnecessary folders/files

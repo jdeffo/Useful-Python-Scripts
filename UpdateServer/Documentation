@@ -1,0 +1,10 @@
+7/31/17
+Project has been done for about a week
+
+Allows for uploading files to a server given the type (my portfolio site for example)
+and the server password as arguments.
+
+Currently, the only option is my portfolio website, but it will be used for
+projects in the future.
+
+Allows for faster, automated deployment from my end and saves me time

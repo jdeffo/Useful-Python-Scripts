@@ -1,0 +1,11 @@
+7/31/17
+Created two python scripts:
+    quickstart.py - utilizes the Gmail API and sends an email to a given user
+    from my gmail address.
+    TenEmails.py - Utilizes the Gmail API, but was used to study how spam filters
+    work.  It is set to send 10 emails on a random interval, with a random subject
+    and random body.  Each email is delivered without being caught as spam.  I believe
+    if this was put into an infinite loop the emails would start to be caught
+    as spam, however.  This has also never been used maliciously, and has only
+    been tested out with my own accounts just to see what the gmail spam filters
+    can and cannot catch

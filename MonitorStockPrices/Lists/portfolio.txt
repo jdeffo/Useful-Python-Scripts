@@ -1,0 +1,7 @@
+#Ticker|Holding Qty|Upper Threshold|Lower Threshold
+BR|8|118.0|110.0
+AAPL|8|195.0|185.0
+Cash|67.73|null|null
+FB|3|200.0|190.0
+TOL|12|42.0|37.0
+Portfolio|3557.62|null|null
